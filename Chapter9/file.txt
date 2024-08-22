@@ -1,0 +1,4 @@
+Hello this is text is from file 
+I am Amzing 
+i am the third line 
+i a the fourth line 
